@@ -116,26 +116,19 @@ SPIDER-EYE segue un workflow guidato:
 
 ```text
 Target
-  |
-  v
+  ↓
 Selezione modalità di scansione
-  |
-  v
+  ↓
 Costruzione comando Nmap
-  |
-  v
+  ↓
 Esecuzione scansione
-  |
-  v
+  ↓
 Parsing dei risultati
-  |
-  v
+  ↓
 Web Recon / NSE Output / OS Guess
-  |
-  v
+  ↓
 Risk Rating
-  |
-  v
+  ↓
 Generazione report
 ```
 
